@@ -1,5 +1,7 @@
 # 鋰電池內短路（ISC）模型與穿刺研究文獻整理
 
+Tags: #Safety #NMC811 #NailPenetration
+
 ## 1. ISC 主要路徑分類
 根據前述模型來源，內部短路（ISC）可分為以下幾種主要路徑：
 
